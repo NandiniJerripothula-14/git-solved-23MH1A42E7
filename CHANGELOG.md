@@ -1,0 +1,8 @@
+- 16984bf: docs: Add Git Journey documentation (NandiniJerripothula-14, 31 seconds ago)
+- 6382fc1: docs: Update README (NandiniJerripothula-14, 15 minutes ago)
+- 717934c: docs: Add FAQ section (NandiniJerripothula-14, 16 minutes ago)
+- a1d119e: merge: Resolve all conflicts between main and dev branches (NandiniJerripothula-14, 56 minutes ago)
+- 02011a5: updating dev (Hanu Gupta, 6 days ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
