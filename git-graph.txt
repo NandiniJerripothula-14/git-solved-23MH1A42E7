@@ -1,4 +1,7 @@
-* ba139f1 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 47b2767 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 19c4504 docs: Add changelog
+* 47e2ae8 docs: Add final project artifacts
+* ba139f1 docs: Add changelog
 * 16984bf docs: Add Git Journey documentation
 | * 60e242c (origin/feature/another-feature) feat: Add test feature
 |/  
